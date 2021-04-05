@@ -1,2 +1,3 @@
 onу edit
 add line 2 master
+add author: Galkin Andrey <galkinandrey86@gmail.com>
